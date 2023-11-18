@@ -1,0 +1,3 @@
+function sayMuy(){
+    alert("Muyu")
+}
